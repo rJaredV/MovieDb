@@ -1,6 +1,6 @@
 import * as types from './actionTypes';
 
-import {fetchPopularMovies} from "../net/Network";
+import { fetchPopularMovies } from '../net/Network';
 
 export function requestFetchTrendingMovies() {
     return (dispatch, getState) => {
