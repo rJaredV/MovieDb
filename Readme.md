@@ -26,6 +26,9 @@ react-native run-ios
 - Display Trending Movies
 - Basic Search functionality for other movies
 
+<img src="https://user-images.githubusercontent.com/34352541/60141370-fc31e780-9769-11e9-832e-ca01919699a9.png" width="300">
+<img src="https://user-images.githubusercontent.com/34352541/60141376-02c05f00-976a-11e9-972f-5c634859a3c1.png" width="300">
+
 ## Credit
 Author: Jared Vu
 
